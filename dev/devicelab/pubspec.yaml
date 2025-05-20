@@ -28,9 +28,9 @@ dependencies:
   collection: any
   pub_semver: any
   retry: any
+  yaml_edit: any
 
 dev_dependencies:
   test: any
 
-
-# PUBSPEC CHECKSUM: 8kqpl5
+# PUBSPEC CHECKSUM: h28mko
