@@ -21,6 +21,7 @@ dependencies:
   collection: any
   file: any
   platform: any
+  yaml_edit: any
 
 dev_dependencies:
   test: any
@@ -29,4 +30,4 @@ dev_dependencies:
 
   matcher: any
 
-# PUBSPEC CHECKSUM: 45kl3f
+# PUBSPEC CHECKSUM: m19gu6
